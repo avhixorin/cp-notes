@@ -53,6 +53,8 @@ Answer = gcd(a1 + x, G)
 Edge Case:
 If n = 1 → answer = |a1 + x|
 
+[Codeforces Problem 1458A](https://codeforces.com/problemset/problem/1458/A)
+
 ---
 
 ## 5. Base Cases
